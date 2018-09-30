@@ -3,6 +3,8 @@
 0. Requirements:
    
    - Docker installed.
+   - Bash interpreter
+   - curl binary
     
 1. Build Server
 
