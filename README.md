@@ -1,5 +1,4 @@
-# code_challenge_mcalavera81
-# Packlink Engineering coding test
+# Coding test
 
 ## Instructions
 
